@@ -1,2 +1,1 @@
-# ibpmold
-CF BPM Old Service
+Cloud Platform Cloud Foundry Workflow Service
